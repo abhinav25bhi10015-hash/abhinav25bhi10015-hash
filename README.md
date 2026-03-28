@@ -1,9 +1,12 @@
-Hi there 
-My name is Abhinav 
-i'm in my first year, pursuing B.Tech CSE in Health Informatics 
-i'm in my first year
-I hope to learn more about the machines that I use on a daily basis, 
-potentially contributing to the cause. 
+# Hi there, I'm Abhinav 
+
+###  Academic Profile
+* **Year:** First Year B.Tech
+* **Branch:** Computer Science Engineering (Health Informatics)
+* **Institution:** VIT Bhopal University
+
+###  My Learning Goals
+I am passionate about understanding the inner workings of the machines and digital systems I use daily. My goal is to bridge the gap between healthcare and technology, eventually contributing to impactful open-source projects
 <!--
 **abhinav25bhi10015-hash/abhinav25bhi10015-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
